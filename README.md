@@ -37,4 +37,4 @@ Configure `REACT_APP_BACKEND_URL` with your backend URL to enable emotion analys
 
 ## Repository
 
-https://github.com/SRIMATHI-T/Video_emotion_UI
+https://github.com/VENKATDHARSHINI24/Video_emotion_UI.git
